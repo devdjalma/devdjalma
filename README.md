@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @devdjalma
-- 🐍 Python Developer
+- 🚀 Developer
